@@ -1,4 +1,4 @@
-# Wasterium
+# Wastrium
 
 한국컴퓨터그래픽스학회 KCGS 2023
 
@@ -13,6 +13,7 @@
 ## Subject
 
 모션캡처와 대형 스크린을 활용한 해양오염 피드백 분리수거 XR게임
+Waste + Aquarium = Wastrium
 
 ## Approach
 
